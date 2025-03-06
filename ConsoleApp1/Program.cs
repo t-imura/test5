@@ -9,11 +9,10 @@ namespace ConsoleApp1
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-
+            Console.WriteLine("");
             Console.WriteLine("何か入力してください");
             string name = Console.ReadLine();
         }
