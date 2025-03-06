@@ -12,7 +12,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("");
+            Console.WriteLine("お試しブランチ１");
             Console.WriteLine("何か入力してください");
             string name = Console.ReadLine();
         }
